@@ -1,5 +1,6 @@
 # SSH
-Free Server 6h w/github-actions
+Free Server 6h w/github-actions<br>
+For More Information <a href="https://www.sans.eu.org/2021/01/review-cara-kerja-bot-shopee-sans.html" target="_blank">Official Website</a>
 
 # Make it your own (generate using template)
 - Create your own repo with click "Use this template" button (forked repo will not work)
